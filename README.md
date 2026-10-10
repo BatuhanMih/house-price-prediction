@@ -65,7 +65,7 @@ Training creates model and prediction files in `artifacts/`; those files are als
 
 The archived project used 500 rows and included 11 exact duplicate rows. Both a small sample and duplicate records can make holdout estimates unstable or optimistic. No model here should be used as a production appraisal system without a documented dataset, stronger validation and domain review.
 
-## Team
+## Team:
 
 - [Batuhan Mıh](https://github.com/BatuhanMih)
 - [Mustafa Kurtulan](https://github.com/MustafaKurtulan)
